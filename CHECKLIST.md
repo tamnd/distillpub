@@ -1,0 +1,190 @@
+# Distill Translation Checklist
+
+Source organization: https://github.com/orgs/distillpub/repositories?type=all
+
+Fork naming convention: `tamnd/distillpub--<upstream-repo-name>`.
+
+Status legend:
+
+- `[ ]` Not started
+- `[x]` Forked and Vietnamese page started/deployed
+- `N/A` Infrastructure, template, draft aggregator, or example repo
+
+## Article Repositories
+
+- [x] `post--augmented-rnns` - Attention and Augmented Recurrent Neural Networks
+  - Upstream: https://github.com/distillpub/post--augmented-rnns
+  - Fork: https://github.com/tamnd/distillpub--post--augmented-rnns
+  - Vietnamese page: https://tamnd.github.io/distillpub--post--augmented-rnns/
+- [ ] `post--misread-tsne` - How to Use t-SNE Effectively
+  - Upstream: https://github.com/distillpub/post--misread-tsne
+  - Fork target: `tamnd/distillpub--post--misread-tsne`
+- [ ] `post--deconv-checkerboard` - Deconvolution and Checkerboard Artifacts
+  - Upstream: https://github.com/distillpub/post--deconv-checkerboard
+  - Fork target: `tamnd/distillpub--post--deconv-checkerboard`
+- [ ] `post--handwriting` - Four Experiments in Handwriting with a Neural Network
+  - Upstream: https://github.com/distillpub/post--handwriting
+  - Fork target: `tamnd/distillpub--post--handwriting`
+- [ ] `post--research-debt` - Research Debt
+  - Upstream: https://github.com/distillpub/post--research-debt
+  - Fork target: `tamnd/distillpub--post--research-debt`
+- [ ] `post--momentum` - Why Momentum Really Works
+  - Upstream: https://github.com/distillpub/post--momentum
+  - Fork target: `tamnd/distillpub--post--momentum`
+- [ ] `post--ctc` - Sequence Modelling with CTC
+  - Upstream: https://github.com/distillpub/post--ctc
+  - Fork target: `tamnd/distillpub--post--ctc`
+- [ ] `post--feature-visualization` - Feature Visualization
+  - Upstream: https://github.com/distillpub/post--feature-visualization
+  - Fork target: `tamnd/distillpub--post--feature-visualization`
+- [ ] `post--feature-wise-transformations` - Feature-Wise Transformations
+  - Upstream: https://github.com/distillpub/post--feature-wise-transformations
+  - Fork target: `tamnd/distillpub--post--feature-wise-transformations`
+- [ ] `post--building-blocks` - The Building Blocks of Interpretability
+  - Upstream: https://github.com/distillpub/post--building-blocks
+  - Fork target: `tamnd/distillpub--post--building-blocks`
+- [ ] `post--aia` - Using Artificial Intelligence to Augment Human Intelligence
+  - Upstream: https://github.com/distillpub/post--aia
+  - Fork target: `tamnd/distillpub--post--aia`
+- [ ] `post--differentiable-parameterizations` - A powerful, under-explored tool for neural network visualizations and art.
+  - Upstream: https://github.com/distillpub/post--differentiable-parameterizations
+  - Fork target: `tamnd/distillpub--post--differentiable-parameterizations`
+- [ ] `post--memorization-in-rnns` - Visualizing memorization in RNNs
+  - Upstream: https://github.com/distillpub/post--memorization-in-rnns
+  - Fork target: `tamnd/distillpub--post--memorization-in-rnns`
+- [ ] `post--editorial-update-2018` - Distill Update 2018
+  - Upstream: https://github.com/distillpub/post--editorial-update-2018
+  - Fork target: `tamnd/distillpub--post--editorial-update-2018`
+- [ ] `post--visual-exploration-gaussian-processes` - A Visual Exploration of Gaussian Processes
+  - Upstream: https://github.com/distillpub/post--visual-exploration-gaussian-processes
+  - Fork target: `tamnd/distillpub--post--visual-exploration-gaussian-processes`
+- [ ] `post--td-paths` - The Paths Perspective on Value Learning
+  - Upstream: https://github.com/distillpub/post--td-paths
+  - Fork target: `tamnd/distillpub--post--td-paths`
+- [ ] `post--safety-needs-social-scientists` - AI safety needs social scientists
+  - Upstream: https://github.com/distillpub/post--safety-needs-social-scientists
+  - Fork target: `tamnd/distillpub--post--safety-needs-social-scientists`
+- [ ] `post--gan-open-problems` - Open Questions about Generative Adversarial Networks
+  - Upstream: https://github.com/distillpub/post--gan-open-problems
+  - Fork target: `tamnd/distillpub--post--gan-open-problems`
+- [ ] `post--receptive-field` - Computing Receptive Fields of Convolutional Neural Networks
+  - Upstream: https://github.com/distillpub/post--receptive-field
+  - Fork target: `tamnd/distillpub--post--receptive-field`
+- [ ] `post--activation-atlas` - Activation Atlas
+  - Upstream: https://github.com/distillpub/post--activation-atlas
+  - Fork target: `tamnd/distillpub--post--activation-atlas`
+- [ ] `post--bayesian-optimization` - Exploring Bayesian Optimization
+  - Upstream: https://github.com/distillpub/post--bayesian-optimization
+  - Fork target: `tamnd/distillpub--post--bayesian-optimization`
+- [ ] `post--attribution-baselines` - Visualizing the Impact of Feature Attribution Baselines
+  - Upstream: https://github.com/distillpub/post--attribution-baselines
+  - Fork target: `tamnd/distillpub--post--attribution-baselines`
+- [ ] `post--ilyas-response-1` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-1
+  - Fork target: `tamnd/distillpub--post--ilyas-response-1`
+- [ ] `post--ilyas-responses` - Response collection
+  - Upstream: https://github.com/distillpub/post--ilyas-responses
+  - Fork target: `tamnd/distillpub--post--ilyas-responses`
+- [ ] `post--ilyas-response-3` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-3
+  - Fork target: `tamnd/distillpub--post--ilyas-response-3`
+- [ ] `post--ilyas-response-2` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-2
+  - Fork target: `tamnd/distillpub--post--ilyas-response-2`
+- [ ] `post--ilyas-response-4` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-4
+  - Fork target: `tamnd/distillpub--post--ilyas-response-4`
+- [ ] `post--ilyas-response-5` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-5
+  - Fork target: `tamnd/distillpub--post--ilyas-response-5`
+- [ ] `post--ilyas-response-6` - Response article
+  - Upstream: https://github.com/distillpub/post--ilyas-response-6
+  - Fork target: `tamnd/distillpub--post--ilyas-response-6`
+- [ ] `post--ilyas-rebuttal` - Rebuttal article
+  - Upstream: https://github.com/distillpub/post--ilyas-rebuttal
+  - Fork target: `tamnd/distillpub--post--ilyas-rebuttal`
+- [ ] `post--weight-banding` - Investigation of weight banding
+  - Upstream: https://github.com/distillpub/post--weight-banding
+  - Fork target: `tamnd/distillpub--post--weight-banding`
+- [ ] `post--growing-ca` - Growing Neural Cellular Automata
+  - Upstream: https://github.com/distillpub/post--growing-ca
+  - Fork target: `tamnd/distillpub--post--growing-ca`
+- [ ] `post--understanding-rl-vision` - Understanding RL vision
+  - Upstream: https://github.com/distillpub/post--understanding-rl-vision
+  - Fork target: `tamnd/distillpub--post--understanding-rl-vision`
+- [ ] `post--circuits--frequency-edges` - High/Low Frequency Detectors
+  - Upstream: https://github.com/distillpub/post--circuits--frequency-edges
+  - Fork target: `tamnd/distillpub--post--circuits--frequency-edges`
+- [ ] `post--communicating-with-interactive-articles` - Communicating with Interactive Articles
+  - Upstream: https://github.com/distillpub/post--communicating-with-interactive-articles
+  - Fork target: `tamnd/distillpub--post--communicating-with-interactive-articles`
+- [ ] `post--selforg-overview` - Self-Organising Systems overview
+  - Upstream: https://github.com/distillpub/post--selforg-overview
+  - Fork target: `tamnd/distillpub--post--selforg-overview`
+- [ ] `post--circuits-zoom-in` - Zoom In: An Introduction to Circuits
+  - Upstream: https://github.com/distillpub/post--circuits-zoom-in
+  - Fork target: `tamnd/distillpub--post--circuits-zoom-in`
+- [ ] `post--circuits-early-overview` - Circuits early overview
+  - Upstream: https://github.com/distillpub/post--circuits-early-overview
+  - Fork target: `tamnd/distillpub--post--circuits-early-overview`
+- [ ] `post--grand-tour` - Grand Tour
+  - Upstream: https://github.com/distillpub/post--grand-tour
+  - Fork target: `tamnd/distillpub--post--grand-tour`
+- [ ] `post--circuits-overview` - Circuits overview
+  - Upstream: https://github.com/distillpub/post--circuits-overview
+  - Fork target: `tamnd/distillpub--post--circuits-overview`
+- [ ] `post--selforg-textures` - Self-Organising Textures
+  - Upstream: https://github.com/distillpub/post--selforg-textures
+  - Fork target: `tamnd/distillpub--post--selforg-textures`
+- [ ] `post--circuits-curve-detectors` - Circuits: Curve Detectors
+  - Upstream: https://github.com/distillpub/post--circuits-curve-detectors
+  - Fork target: `tamnd/distillpub--post--circuits-curve-detectors`
+- [ ] `post--selforg-mnist` - Self-Organising MNIST
+  - Upstream: https://github.com/distillpub/post--selforg-mnist
+  - Fork target: `tamnd/distillpub--post--selforg-mnist`
+- [ ] `post--circuits-curve-circuits` - Circuits: Curve Circuits
+  - Upstream: https://github.com/distillpub/post--circuits-curve-circuits
+  - Fork target: `tamnd/distillpub--post--circuits-curve-circuits`
+- [ ] `post--selforg-adversarial` - Self-Organising Adversarial
+  - Upstream: https://github.com/distillpub/post--selforg-adversarial
+  - Fork target: `tamnd/distillpub--post--selforg-adversarial`
+- [ ] `post--circuits-equivariance` - Circuits: Equivariance
+  - Upstream: https://github.com/distillpub/post--circuits-equivariance
+  - Fork target: `tamnd/distillpub--post--circuits-equivariance`
+- [ ] `post--circuits-visualizing-weights` - Visualizing Weights
+  - Upstream: https://github.com/distillpub/post--circuits-visualizing-weights
+  - Fork target: `tamnd/distillpub--post--circuits-visualizing-weights`
+- [ ] `post--understanding-gnns` - Understanding Convolutions on Graphs
+  - Upstream: https://github.com/distillpub/post--understanding-gnns
+  - Fork target: `tamnd/distillpub--post--understanding-gnns`
+- [ ] `post--multimodal` - Multimodal Neurons in Artificial Neural Networks
+  - Upstream: https://github.com/distillpub/post--multimodal
+  - Fork target: `tamnd/distillpub--post--multimodal`
+- [ ] `post--gnn-intro` - Graph Neural Networks introduction
+  - Upstream: https://github.com/distillpub/post--gnn-intro
+  - Fork target: `tamnd/distillpub--post--gnn-intro`
+- [ ] `post--circuits-branch-specialization` - Circuits: Branch Specialization
+  - Upstream: https://github.com/distillpub/post--circuits-branch-specialization
+  - Fork target: `tamnd/distillpub--post--circuits-branch-specialization`
+- [ ] `post--distill-hiatus` - Distill hiatus
+  - Upstream: https://github.com/distillpub/post--distill-hiatus
+  - Fork target: `tamnd/distillpub--post--distill-hiatus`
+
+## Non-Article Repositories
+
+- [ ] `template` - Distill web framework
+  - Upstream: https://github.com/distillpub/template
+  - Translation status: N/A unless we need a reusable Vietnamese template fork.
+- [ ] `drafts` - Drafts website builder
+  - Upstream: https://github.com/distillpub/drafts
+  - Translation status: N/A.
+- [ ] `post--example` - Example Distill article repository
+  - Upstream: https://github.com/distillpub/post--example
+  - Translation status: N/A unless we need a starter repo.
+
+## Notes
+
+- Total repositories scanned: 55.
+- Article repositories queued for translation: 52.
+- Non-article/template repositories separated: 3.
+- First completed translation: `post--augmented-rnns`.
