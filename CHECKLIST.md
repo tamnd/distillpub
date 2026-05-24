@@ -20,9 +20,10 @@ Status legend:
   - Upstream: https://github.com/distillpub/post--misread-tsne
   - Fork: https://github.com/tamnd/distillpub--post--misread-tsne
   - Vietnamese page: https://tamnd.github.io/distillpub--post--misread-tsne/
-- [ ] `post--deconv-checkerboard` - Deconvolution and Checkerboard Artifacts
+- [x] `post--deconv-checkerboard` - Deconvolution and Checkerboard Artifacts
   - Upstream: https://github.com/distillpub/post--deconv-checkerboard
-  - Fork target: `tamnd/distillpub--post--deconv-checkerboard`
+  - Fork: https://github.com/tamnd/distillpub--post--deconv-checkerboard
+  - Vietnamese page: https://tamnd.github.io/distillpub--post--deconv-checkerboard/
 - [ ] `post--handwriting` - Four Experiments in Handwriting with a Neural Network
   - Upstream: https://github.com/distillpub/post--handwriting
   - Fork target: `tamnd/distillpub--post--handwriting`
