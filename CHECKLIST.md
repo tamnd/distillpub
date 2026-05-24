@@ -16,9 +16,10 @@ Status legend:
   - Upstream: https://github.com/distillpub/post--augmented-rnns
   - Fork: https://github.com/tamnd/distillpub--post--augmented-rnns
   - Vietnamese page: https://tamnd.github.io/distillpub--post--augmented-rnns/
-- [ ] `post--misread-tsne` - How to Use t-SNE Effectively
+- [x] `post--misread-tsne` - How to Use t-SNE Effectively
   - Upstream: https://github.com/distillpub/post--misread-tsne
-  - Fork target: `tamnd/distillpub--post--misread-tsne`
+  - Fork: https://github.com/tamnd/distillpub--post--misread-tsne
+  - Vietnamese page: https://tamnd.github.io/distillpub--post--misread-tsne/
 - [ ] `post--deconv-checkerboard` - Deconvolution and Checkerboard Artifacts
   - Upstream: https://github.com/distillpub/post--deconv-checkerboard
   - Fork target: `tamnd/distillpub--post--deconv-checkerboard`
