@@ -16,7 +16,7 @@ Status legend:
 |---|---|---|---|---|---|---|
 | Done | `post--augmented-rnns` | Attention and Augmented Recurrent Neural Networks | [upstream](https://github.com/distillpub/post--augmented-rnns) | [fork](https://github.com/tamnd/distillpub--post--augmented-rnns) | [page](https://tamnd.github.io/distillpub--post--augmented-rnns/) | [v2](https://tamnd.github.io/distillpub--post--augmented-rnns/v2/) |
 | Done | `post--misread-tsne` | How to Use t-SNE Effectively | [upstream](https://github.com/distillpub/post--misread-tsne) | [fork](https://github.com/tamnd/distillpub--post--misread-tsne) | [page](https://tamnd.github.io/distillpub--post--misread-tsne/) | [v2](https://tamnd.github.io/distillpub--post--misread-tsne/v2/) |
-| Done | `post--deconv-checkerboard` | Deconvolution and Checkerboard Artifacts | [upstream](https://github.com/distillpub/post--deconv-checkerboard) | [fork](https://github.com/tamnd/distillpub--post--deconv-checkerboard) | [page](https://tamnd.github.io/distillpub--post--deconv-checkerboard/) |  |
+| Done | `post--deconv-checkerboard` | Deconvolution and Checkerboard Artifacts | [upstream](https://github.com/distillpub/post--deconv-checkerboard) | [fork](https://github.com/tamnd/distillpub--post--deconv-checkerboard) | [page](https://tamnd.github.io/distillpub--post--deconv-checkerboard/) | [v2](https://tamnd.github.io/distillpub--post--deconv-checkerboard/v2/) |
 | Done | `post--handwriting` | Four Experiments in Handwriting with a Neural Network | [upstream](https://github.com/distillpub/post--handwriting) | [fork](https://github.com/tamnd/distillpub--post--handwriting) | [page](https://tamnd.github.io/distillpub--post--handwriting/) | [v2](https://tamnd.github.io/distillpub--post--handwriting/v2/) |
 | Queued | `post--research-debt` | Research Debt | [upstream](https://github.com/distillpub/post--research-debt) | `tamnd/distillpub--post--research-debt` |  |  |
 | Queued | `post--momentum` | Why Momentum Really Works | [upstream](https://github.com/distillpub/post--momentum) | `tamnd/distillpub--post--momentum` |  |  |
@@ -80,5 +80,5 @@ Status legend:
 - Total repositories scanned: 55.
 - Article repositories queued for translation: 48.
 - Article repositories completed: 4.
-- Article repositories with deployed v2 pages: 3.
+- Article repositories with deployed v2 pages: 4.
 - Non-article/template repositories separated: 3.
