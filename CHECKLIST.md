@@ -24,9 +24,10 @@ Status legend:
   - Upstream: https://github.com/distillpub/post--deconv-checkerboard
   - Fork: https://github.com/tamnd/distillpub--post--deconv-checkerboard
   - Vietnamese page: https://tamnd.github.io/distillpub--post--deconv-checkerboard/
-- [ ] `post--handwriting` - Four Experiments in Handwriting with a Neural Network
+- [x] `post--handwriting` - Four Experiments in Handwriting with a Neural Network
   - Upstream: https://github.com/distillpub/post--handwriting
-  - Fork target: `tamnd/distillpub--post--handwriting`
+  - Fork: https://github.com/tamnd/distillpub--post--handwriting
+  - Vietnamese page: https://tamnd.github.io/distillpub--post--handwriting/
 - [ ] `post--research-debt` - Research Debt
   - Upstream: https://github.com/distillpub/post--research-debt
   - Fork target: `tamnd/distillpub--post--research-debt`
