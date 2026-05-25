@@ -18,7 +18,7 @@ Status legend:
 | Done | `post--misread-tsne` | How to Use t-SNE Effectively | [upstream](https://github.com/distillpub/post--misread-tsne) | [fork](https://github.com/tamnd/distillpub--post--misread-tsne) | [page](https://tamnd.github.io/distillpub--post--misread-tsne/) | [v2](https://tamnd.github.io/distillpub--post--misread-tsne/v2/) |
 | Done | `post--deconv-checkerboard` | Deconvolution and Checkerboard Artifacts | [upstream](https://github.com/distillpub/post--deconv-checkerboard) | [fork](https://github.com/tamnd/distillpub--post--deconv-checkerboard) | [page](https://tamnd.github.io/distillpub--post--deconv-checkerboard/) | [v2](https://tamnd.github.io/distillpub--post--deconv-checkerboard/v2/) |
 | Done | `post--handwriting` | Four Experiments in Handwriting with a Neural Network | [upstream](https://github.com/distillpub/post--handwriting) | [fork](https://github.com/tamnd/distillpub--post--handwriting) | [page](https://tamnd.github.io/distillpub--post--handwriting/) | [v2](https://tamnd.github.io/distillpub--post--handwriting/v2/) |
-| Queued | `post--research-debt` | Research Debt | [upstream](https://github.com/distillpub/post--research-debt) | `tamnd/distillpub--post--research-debt` |  |  |
+| Done | `post--research-debt` | Research Debt | [upstream](https://github.com/distillpub/post--research-debt) | [fork](https://github.com/tamnd/distillpub--post--research-debt) | [page](https://tamnd.github.io/distillpub--post--research-debt/) | [v2](https://tamnd.github.io/distillpub--post--research-debt/v2/) |
 | Queued | `post--momentum` | Why Momentum Really Works | [upstream](https://github.com/distillpub/post--momentum) | `tamnd/distillpub--post--momentum` |  |  |
 | Queued | `post--ctc` | Sequence Modelling with CTC | [upstream](https://github.com/distillpub/post--ctc) | `tamnd/distillpub--post--ctc` |  |  |
 | Queued | `post--feature-visualization` | Feature Visualization | [upstream](https://github.com/distillpub/post--feature-visualization) | `tamnd/distillpub--post--feature-visualization` |  |  |
@@ -78,7 +78,7 @@ Status legend:
 ## Notes
 
 - Total repositories scanned: 55.
-- Article repositories queued for translation: 48.
-- Article repositories completed: 4.
-- Article repositories with deployed v2 pages: 4.
+- Article repositories queued for translation: 47.
+- Article repositories completed: 5.
+- Article repositories with deployed v2 pages: 5.
 - Non-article/template repositories separated: 3.
