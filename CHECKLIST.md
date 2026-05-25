@@ -19,7 +19,7 @@ Status legend:
 | Done | `post--deconv-checkerboard` | Deconvolution and Checkerboard Artifacts | [upstream](https://github.com/distillpub/post--deconv-checkerboard) | [fork](https://github.com/tamnd/distillpub--post--deconv-checkerboard) | [page](https://tamnd.github.io/distillpub--post--deconv-checkerboard/) | [v2](https://tamnd.github.io/distillpub--post--deconv-checkerboard/v2/) |
 | Done | `post--handwriting` | Four Experiments in Handwriting with a Neural Network | [upstream](https://github.com/distillpub/post--handwriting) | [fork](https://github.com/tamnd/distillpub--post--handwriting) | [page](https://tamnd.github.io/distillpub--post--handwriting/) | [v2](https://tamnd.github.io/distillpub--post--handwriting/v2/) |
 | Done | `post--research-debt` | Research Debt | [upstream](https://github.com/distillpub/post--research-debt) | [fork](https://github.com/tamnd/distillpub--post--research-debt) | [page](https://tamnd.github.io/distillpub--post--research-debt/) | [v2](https://tamnd.github.io/distillpub--post--research-debt/v2/) |
-| Queued | `post--momentum` | Why Momentum Really Works | [upstream](https://github.com/distillpub/post--momentum) | `tamnd/distillpub--post--momentum` |  |  |
+| Done | `post--momentum` | Why Momentum Really Works | [upstream](https://github.com/distillpub/post--momentum) | [fork](https://github.com/tamnd/distillpub--post--momentum) | [page](https://tamnd.github.io/distillpub--post--momentum/) | [v2](https://tamnd.github.io/distillpub--post--momentum/v2/) |
 | Queued | `post--ctc` | Sequence Modelling with CTC | [upstream](https://github.com/distillpub/post--ctc) | `tamnd/distillpub--post--ctc` |  |  |
 | Queued | `post--feature-visualization` | Feature Visualization | [upstream](https://github.com/distillpub/post--feature-visualization) | `tamnd/distillpub--post--feature-visualization` |  |  |
 | Queued | `post--feature-wise-transformations` | Feature-Wise Transformations | [upstream](https://github.com/distillpub/post--feature-wise-transformations) | `tamnd/distillpub--post--feature-wise-transformations` |  |  |
@@ -78,7 +78,7 @@ Status legend:
 ## Notes
 
 - Total repositories scanned: 55.
-- Article repositories queued for translation: 47.
-- Article repositories completed: 5.
-- Article repositories with deployed v2 pages: 5.
+- Article repositories queued for translation: 46.
+- Article repositories completed: 6.
+- Article repositories with deployed v2 pages: 6.
 - Non-article/template repositories separated: 3.
