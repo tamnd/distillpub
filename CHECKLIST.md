@@ -22,7 +22,7 @@ Status legend:
 | Done | `post--momentum` | Why Momentum Really Works | [upstream](https://github.com/distillpub/post--momentum) | [fork](https://github.com/tamnd/distillpub--post--momentum) | [page](https://tamnd.github.io/distillpub--post--momentum/) | [v2](https://tamnd.github.io/distillpub--post--momentum/v2/) |
 | Done | `post--ctc` | Sequence Modelling with CTC | [upstream](https://github.com/distillpub/post--ctc) | [fork](https://github.com/tamnd/distillpub--post--ctc) | [page](https://tamnd.github.io/distillpub--post--ctc/) | N/A |
 | Done | `post--feature-visualization` | Feature Visualization | [upstream](https://github.com/distillpub/post--feature-visualization) | [fork](https://github.com/tamnd/distillpub--post--feature-visualization) | [page](https://tamnd.github.io/distillpub--post--feature-visualization/) | N/A |
-| Queued | `post--feature-wise-transformations` | Feature-Wise Transformations | [upstream](https://github.com/distillpub/post--feature-wise-transformations) | `tamnd/distillpub--post--feature-wise-transformations` |  |  |
+| Done | `post--feature-wise-transformations` | Feature-Wise Transformations | [upstream](https://github.com/distillpub/post--feature-wise-transformations) | [fork](https://github.com/tamnd/distillpub--post--feature-wise-transformations) | [page](https://tamnd.github.io/distillpub--post--feature-wise-transformations/) | N/A |
 | Queued | `post--building-blocks` | The Building Blocks of Interpretability | [upstream](https://github.com/distillpub/post--building-blocks) | `tamnd/distillpub--post--building-blocks` |  |  |
 | Queued | `post--aia` | Using Artificial Intelligence to Augment Human Intelligence | [upstream](https://github.com/distillpub/post--aia) | `tamnd/distillpub--post--aia` |  |  |
 | Queued | `post--differentiable-parameterizations` | A powerful, under-explored tool for neural network visualizations and art. | [upstream](https://github.com/distillpub/post--differentiable-parameterizations) | `tamnd/distillpub--post--differentiable-parameterizations` |  |  |
@@ -78,7 +78,7 @@ Status legend:
 ## Notes
 
 - Total repositories scanned: 55.
-- Article repositories queued for translation: 44.
-- Article repositories completed: 8.
+- Article repositories queued for translation: 43.
+- Article repositories completed: 9.
 - Article repositories with deployed v2 pages: 6.
 - Non-article/template repositories separated: 3.
