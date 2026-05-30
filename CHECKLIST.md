@@ -57,7 +57,7 @@ Status legend:
 | Queued | `post--selforg-textures` | Self-Organising Textures | [upstream](https://github.com/distillpub/post--selforg-textures) | `tamnd/distillpub--post--selforg-textures` |  |  |
 | Queued | `post--circuits-curve-detectors` | Circuits: Curve Detectors | [upstream](https://github.com/distillpub/post--circuits-curve-detectors) | `tamnd/distillpub--post--circuits-curve-detectors` |  |  |
 | Queued | `post--selforg-mnist` | Self-Organising MNIST | [upstream](https://github.com/distillpub/post--selforg-mnist) | `tamnd/distillpub--post--selforg-mnist` |  |  |
-| Queued | `post--circuits-curve-circuits` | Circuits: Curve Circuits | [upstream](https://github.com/distillpub/post--circuits-curve-circuits) | `tamnd/distillpub--post--circuits-curve-circuits` |  |  |
+| Done | `post--circuits-curve-circuits` | Circuits: Curve Circuits | [upstream](https://github.com/distillpub/post--circuits-curve-circuits) | [fork](https://github.com/tamnd/distillpub--post--circuits-curve-circuits) | [page](https://tamnd.github.io/distillpub--post--circuits-curve-circuits/) | N/A |
 | Queued | `post--selforg-adversarial` | Self-Organising Adversarial | [upstream](https://github.com/distillpub/post--selforg-adversarial) | `tamnd/distillpub--post--selforg-adversarial` |  |  |
 | Queued | `post--circuits-equivariance` | Circuits: Equivariance | [upstream](https://github.com/distillpub/post--circuits-equivariance) | `tamnd/distillpub--post--circuits-equivariance` |  |  |
 | Queued | `post--circuits-visualizing-weights` | Visualizing Weights | [upstream](https://github.com/distillpub/post--circuits-visualizing-weights) | `tamnd/distillpub--post--circuits-visualizing-weights` |  |  |
