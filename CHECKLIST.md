@@ -62,7 +62,7 @@ Status legend:
 | Queued | `post--circuits-equivariance` | Circuits: Equivariance | [upstream](https://github.com/distillpub/post--circuits-equivariance) | `tamnd/distillpub--post--circuits-equivariance` |  |  |
 | Queued | `post--circuits-visualizing-weights` | Visualizing Weights | [upstream](https://github.com/distillpub/post--circuits-visualizing-weights) | `tamnd/distillpub--post--circuits-visualizing-weights` |  |  |
 | Queued | `post--understanding-gnns` | Understanding Convolutions on Graphs | [upstream](https://github.com/distillpub/post--understanding-gnns) | `tamnd/distillpub--post--understanding-gnns` |  |  |
-| Queued | `post--multimodal` | Multimodal Neurons in Artificial Neural Networks | [upstream](https://github.com/distillpub/post--multimodal) | `tamnd/distillpub--post--multimodal` |  |  |
+| Done | `post--multimodal` | Multimodal Neurons in Artificial Neural Networks | [upstream](https://github.com/distillpub/post--multimodal) | [fork](https://github.com/tamnd/distillpub--post--multimodal) | [page](https://tamnd.github.io/distillpub--post--multimodal/) | N/A |
 | Queued | `post--gnn-intro` | Graph Neural Networks introduction | [upstream](https://github.com/distillpub/post--gnn-intro) | `tamnd/distillpub--post--gnn-intro` |  |  |
 | Queued | `post--circuits-branch-specialization` | Circuits: Branch Specialization | [upstream](https://github.com/distillpub/post--circuits-branch-specialization) | `tamnd/distillpub--post--circuits-branch-specialization` |  |  |
 | Done | `post--distill-hiatus` | Distill hiatus | [upstream](https://github.com/distillpub/post--distill-hiatus) | [fork](https://github.com/tamnd/distillpub--post--distill-hiatus) | [page](https://tamnd.github.io/distillpub--post--distill-hiatus/) | N/A |
