@@ -53,7 +53,7 @@ Status legend:
 | Queued | `post--circuits-zoom-in` | Zoom In: An Introduction to Circuits | [upstream](https://github.com/distillpub/post--circuits-zoom-in) | `tamnd/distillpub--post--circuits-zoom-in` |  |  |
 | Queued | `post--circuits-early-overview` | Circuits early overview | [upstream](https://github.com/distillpub/post--circuits-early-overview) | `tamnd/distillpub--post--circuits-early-overview` |  |  |
 | Queued | `post--grand-tour` | Grand Tour | [upstream](https://github.com/distillpub/post--grand-tour) | `tamnd/distillpub--post--grand-tour` |  |  |
-| Queued | `post--circuits-overview` | Circuits overview | [upstream](https://github.com/distillpub/post--circuits-overview) | `tamnd/distillpub--post--circuits-overview` |  |  |
+| Done | `post--circuits-overview` | Circuits overview | [upstream](https://github.com/distillpub/post--circuits-overview) | [fork](https://github.com/tamnd/distillpub--post--circuits-overview) | [page](https://tamnd.github.io/distillpub--post--circuits-overview/) | N/A |
 | Queued | `post--selforg-textures` | Self-Organising Textures | [upstream](https://github.com/distillpub/post--selforg-textures) | `tamnd/distillpub--post--selforg-textures` |  |  |
 | Queued | `post--circuits-curve-detectors` | Circuits: Curve Detectors | [upstream](https://github.com/distillpub/post--circuits-curve-detectors) | `tamnd/distillpub--post--circuits-curve-detectors` |  |  |
 | Queued | `post--selforg-mnist` | Self-Organising MNIST | [upstream](https://github.com/distillpub/post--selforg-mnist) | `tamnd/distillpub--post--selforg-mnist` |  |  |
