@@ -49,7 +49,7 @@ Status legend:
 | Queued | `post--understanding-rl-vision` | Understanding RL vision | [upstream](https://github.com/distillpub/post--understanding-rl-vision) | `tamnd/distillpub--post--understanding-rl-vision` |  |  |
 | Queued | `post--circuits--frequency-edges` | High/Low Frequency Detectors | [upstream](https://github.com/distillpub/post--circuits--frequency-edges) | `tamnd/distillpub--post--circuits--frequency-edges` |  |  |
 | Queued | `post--communicating-with-interactive-articles` | Communicating with Interactive Articles | [upstream](https://github.com/distillpub/post--communicating-with-interactive-articles) | `tamnd/distillpub--post--communicating-with-interactive-articles` |  |  |
-| Queued | `post--selforg-overview` | Self-Organising Systems overview | [upstream](https://github.com/distillpub/post--selforg-overview) | `tamnd/distillpub--post--selforg-overview` |  |  |
+| Done | `post--selforg-overview` | Self-Organising Systems overview | [upstream](https://github.com/distillpub/post--selforg-overview) | [fork](https://github.com/tamnd/distillpub--post--selforg-overview) | [page](https://tamnd.github.io/distillpub--post--selforg-overview/) | N/A |
 | Queued | `post--circuits-zoom-in` | Zoom In: An Introduction to Circuits | [upstream](https://github.com/distillpub/post--circuits-zoom-in) | `tamnd/distillpub--post--circuits-zoom-in` |  |  |
 | Queued | `post--circuits-early-overview` | Circuits early overview | [upstream](https://github.com/distillpub/post--circuits-early-overview) | `tamnd/distillpub--post--circuits-early-overview` |  |  |
 | Queued | `post--grand-tour` | Grand Tour | [upstream](https://github.com/distillpub/post--grand-tour) | `tamnd/distillpub--post--grand-tour` |  |  |
