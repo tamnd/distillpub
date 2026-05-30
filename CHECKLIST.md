@@ -65,7 +65,7 @@ Status legend:
 | Queued | `post--multimodal` | Multimodal Neurons in Artificial Neural Networks | [upstream](https://github.com/distillpub/post--multimodal) | `tamnd/distillpub--post--multimodal` |  |  |
 | Queued | `post--gnn-intro` | Graph Neural Networks introduction | [upstream](https://github.com/distillpub/post--gnn-intro) | `tamnd/distillpub--post--gnn-intro` |  |  |
 | Queued | `post--circuits-branch-specialization` | Circuits: Branch Specialization | [upstream](https://github.com/distillpub/post--circuits-branch-specialization) | `tamnd/distillpub--post--circuits-branch-specialization` |  |  |
-| Queued | `post--distill-hiatus` | Distill hiatus | [upstream](https://github.com/distillpub/post--distill-hiatus) | `tamnd/distillpub--post--distill-hiatus` |  |  |
+| Done | `post--distill-hiatus` | Distill hiatus | [upstream](https://github.com/distillpub/post--distill-hiatus) | [fork](https://github.com/tamnd/distillpub--post--distill-hiatus) | [page](https://tamnd.github.io/distillpub--post--distill-hiatus/) | N/A |
 
 ## Non-Article Repositories
 
