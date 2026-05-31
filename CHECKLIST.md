@@ -39,7 +39,7 @@ Status legend:
 | Queued | `post--ilyas-response-1` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-1) | `tamnd/distillpub--post--ilyas-response-1` |  |  |
 | Queued | `post--ilyas-responses` | Response collection | [upstream](https://github.com/distillpub/post--ilyas-responses) | `tamnd/distillpub--post--ilyas-responses` |  |  |
 | Done | `post--ilyas-response-3` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-3) | [fork](https://github.com/tamnd/distillpub--post--ilyas-response-3) | [page](https://tamnd.github.io/distillpub--post--ilyas-response-3/) | N/A |
-| Queued | `post--ilyas-response-2` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-2) | `tamnd/distillpub--post--ilyas-response-2` |  |  |
+| Done | `post--ilyas-response-2` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-2) | [fork](https://github.com/tamnd/distillpub--post--ilyas-response-2) | [page](https://tamnd.github.io/distillpub--post--ilyas-response-2/) | N/A |
 | Queued | `post--ilyas-response-4` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-4) | `tamnd/distillpub--post--ilyas-response-4` |  |  |
 | Queued | `post--ilyas-response-5` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-5) | `tamnd/distillpub--post--ilyas-response-5` |  |  |
 | Queued | `post--ilyas-response-6` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-6) | `tamnd/distillpub--post--ilyas-response-6` |  |  |
