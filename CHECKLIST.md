@@ -42,7 +42,7 @@ Status legend:
 | Done | `post--ilyas-response-2` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-2) | [fork](https://github.com/tamnd/distillpub--post--ilyas-response-2) | [page](https://tamnd.github.io/distillpub--post--ilyas-response-2/) | N/A |
 | Queued | `post--ilyas-response-4` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-4) | `tamnd/distillpub--post--ilyas-response-4` |  |  |
 | Queued | `post--ilyas-response-5` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-5) | `tamnd/distillpub--post--ilyas-response-5` |  |  |
-| Queued | `post--ilyas-response-6` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-6) | `tamnd/distillpub--post--ilyas-response-6` |  |  |
+| Done | `post--ilyas-response-6` | Response article | [upstream](https://github.com/distillpub/post--ilyas-response-6) | [fork](https://github.com/tamnd/distillpub--post--ilyas-response-6) | [page](https://tamnd.github.io/distillpub--post--ilyas-response-6/) | N/A |
 | Queued | `post--ilyas-rebuttal` | Rebuttal article | [upstream](https://github.com/distillpub/post--ilyas-rebuttal) | `tamnd/distillpub--post--ilyas-rebuttal` |  |  |
 | Queued | `post--weight-banding` | Investigation of weight banding | [upstream](https://github.com/distillpub/post--weight-banding) | `tamnd/distillpub--post--weight-banding` |  |  |
 | Queued | `post--growing-ca` | Growing Neural Cellular Automata | [upstream](https://github.com/distillpub/post--growing-ca) | `tamnd/distillpub--post--growing-ca` |  |  |
