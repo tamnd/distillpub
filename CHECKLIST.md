@@ -63,7 +63,7 @@ Status legend:
 | Queued | `post--circuits-visualizing-weights` | Visualizing Weights | [upstream](https://github.com/distillpub/post--circuits-visualizing-weights) | `tamnd/distillpub--post--circuits-visualizing-weights` |  |  |
 | N/A | `post--understanding-gnns` | Understanding Convolutions on Graphs | [upstream](https://github.com/distillpub/post--understanding-gnns) | N/A — redirects to external site (ameya98.github.io) — no translatable source in repo | |  |
 | Done | `post--multimodal` | Multimodal Neurons in Artificial Neural Networks | [upstream](https://github.com/distillpub/post--multimodal) | [fork](https://github.com/tamnd/distillpub--post--multimodal) | [page](https://tamnd.github.io/distillpub--post--multimodal/) | N/A |
-| Queued | `post--gnn-intro` | Graph Neural Networks introduction | [upstream](https://github.com/distillpub/post--gnn-intro) | `tamnd/distillpub--post--gnn-intro` |  |  |
+| Done | `post--gnn-intro` | Graph Neural Networks introduction | [upstream](https://github.com/distillpub/post--gnn-intro) | [fork](https://github.com/tamnd/distillpub--post--gnn-intro) | [page](https://tamnd.github.io/distillpub--post--gnn-intro/) | N/A |
 | Done | `post--circuits-branch-specialization` | Circuits: Branch Specialization | [upstream](https://github.com/distillpub/post--circuits-branch-specialization) | [fork](https://github.com/tamnd/distillpub--post--circuits-branch-specialization) | [page](https://tamnd.github.io/distillpub--post--circuits-branch-specialization/) | N/A |
 | Done | `post--distill-hiatus` | Distill hiatus | [upstream](https://github.com/distillpub/post--distill-hiatus) | [fork](https://github.com/tamnd/distillpub--post--distill-hiatus) | [page](https://tamnd.github.io/distillpub--post--distill-hiatus/) | N/A |
 
